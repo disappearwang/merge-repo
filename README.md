@@ -4,7 +4,7 @@ this repository is merged with github-connexion-test.git
 As following : 
 
 ```
-git remote add temps github-connexion-test https://github.com/disappearwang/github-connexion-test.git
+git remote add temps https://github.com/disappearwang/github-connexion-test.git
 ```
 
 then we can fetch all remote contents and its tags : 
